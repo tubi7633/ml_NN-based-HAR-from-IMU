@@ -2,6 +2,8 @@
 
 This project investigates **gym workout recognition** using wearable **inertial (IMU)** and **capacitive sensor data**. We evaluate multiple neural-network-based approaches to classify **12 different gym exercises**, focusing on how data representation and temporal modeling affect performance under **strict subject-level evaluation**.
 
+You can follow this link to reach the dataset: [RecGym Dataset](https://doi.org/10.24432/C5PW4K)
+
 ## 📌 Overview
 
 Wearable sensors enable automatic workout logging and feedback, but recognizing fine-grained gym exercises is challenging due to:
@@ -128,7 +130,8 @@ Each session is summarized using **statistical features per channel**:
 - Bao & Intille, *Activity Recognition from Acceleration Data*, 2004  
 - Ravi et al., *Accelerometer-based Activity Recognition*, 2005  
 - Ordóñez & Roggen, *CNN/LSTM for Wearable HAR*, 2016  
-- Patel et al., *Deep Learning for Workout Assessment*, 2017  
+- Patel et al., *Deep Learning for Workout Assessment*, 2017
+- S. Bian and P. Lukowicz. "RecGym: Gym Workouts Recognition Dataset with IMU and Capacitive Sensor," UCI Machine Learning Repository, 2025. [Online]. Available: https://doi.org/10.24432/C5PW4K.
 
 ---
 
